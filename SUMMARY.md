@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Accounts and user](README.md)
+* [About](01-about/index.md)
+* [Accounts and Users](02-accounts-users/index.md)
